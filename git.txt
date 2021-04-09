@@ -6,3 +6,6 @@ git add 文件名  管理文件
 
 git add .  所有文件都管理起来
 
+git reset --hard 复制版本号      回滚回所黏贴的版本（代码也一同回滚）
+
+git reflog   查看回滚之前的版本记录
